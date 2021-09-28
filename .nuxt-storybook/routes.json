@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/nakamurasatoru/git/d_saji/kresevo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9757fcdc"
+  },
+  {
+    "name": "index___ja",
+    "path": "/",
+    "component": "/Users/nakamurasatoru/git/d_saji/kresevo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9757fcdc"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "SearchFullTextSearch": {
+    "description": "Auto imported from components/search/FullTextSearch.vue"
+  },
+  "LayoutBreadcrumbs": {
+    "description": "Auto imported from components/layout/Breadcrumbs.vue"
+  }
+}
